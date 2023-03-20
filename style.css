@@ -89,13 +89,15 @@ section {
   margin: 60px;
 }
 
+/* section02 */
+
 .section-title {
   font-size: 3em;
   margin-bottom: 80px;
 }
 
 .info-title {
-  font-size: 1.8em;
+  font-size: 1.8rem;
   margin-bottom: 10px;
 }
 
@@ -104,6 +106,8 @@ section {
   margin-left: 50px;
 }
 
+/*section03 */
+
 .media-info {
   width: 400px;
   margin-left: 50px;
@@ -111,7 +115,7 @@ section {
 
 .media-info li {
   list-style: none;
-  font-size: 1.4em;
+  font-size: 1.4rem;
 }
 
 .media-info li a {
